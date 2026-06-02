@@ -1,0 +1,13 @@
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\bin\Debug\Yshebnaya_practica2.exe.config
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\bin\Debug\Yshebnaya_practica2.exe
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\bin\Debug\Yshebnaya_practica2.pdb
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.csproj.AssemblyReference.cache
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.Properties.Resources.resources
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.csproj.GenerateResource.cache
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.csproj.CoreCompileInputs.cache
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.exe
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.pdb
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.AuthUser.resources
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.RegUser.resources
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.MainMenuForm.resources
+C:\Users\val-l\OneDrive\Рабочий стол\Задание на учебную практику\Yshebnaya_practica2\Yshebnaya_practica2\obj\Debug\Yshebnaya_practica2.dishesCart.resources
