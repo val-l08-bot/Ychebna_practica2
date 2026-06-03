@@ -47,14 +47,14 @@ namespace Yshebnaya_practica2
                         {
                             if (reader.Read())
                             {
+                                string userName = reader["Имя"].ToString();
+                                string roleName = reader["role_name"].ToString();
+
                                 MessageBox.Show("Вы успешно вошли");
-                                //int role = GetUserRoleFromDatabase(user_id);
-                                MainMenuForm frm = new MainMenuForm();
+                                MainMenuForm frm = new MainMenuForm(userName, roleName);
                                 this.Hide();
                                 frm.ShowDialog();
                                 this.Close();
-
-
                             }
                             else
                             {
@@ -90,5 +90,7 @@ namespace Yshebnaya_practica2
             //if (e.KeyCode == Keys.Enter)
             //    btnLogin_Click(sender, e);
         }
+
+        
     }
 }

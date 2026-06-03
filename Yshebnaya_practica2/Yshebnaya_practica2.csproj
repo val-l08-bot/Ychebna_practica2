@@ -54,6 +54,7 @@
     <Compile Include="AuthUser.Designer.cs">
       <DependentUpon>AuthUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="Dishes.cs" />
     <Compile Include="dishesCart.cs">
       <SubType>UserControl</SubType>
     </Compile>
